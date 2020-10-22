@@ -1,17 +1,17 @@
 package _01_AnimalFarm;
 
-public class Sheep extends Animal {
+public class Vaquita extends Animal {
 
 	@Override
 	public void makeNoise() {
 		// TODO Auto-generated method stub
-		 System.out.println("ba");
+		System.out.println("click");
 	}
 
 	@Override
 	public void walk() {
 		// TODO Auto-generated method stub
-		System.out.println("step");
+		System.out.println("swim");
 	}
 
 }
